@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi 👋, I'm Rishabh Jain
 
-<!--
-**jainris/jainris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a PhD researcher at the University of Cambridge, working on graph and hypergraph neural networks. I have been exploring advanced representations and neuro-algorithmic methods for multi-agent pathfinding, to obtain powerful and scalable neural solvers, while retaining the guarantees of classical algorithms.
 
-Here are some ideas to get you started:
+<video height="320" autoplay muted loop>
+  <source src="assets/drone-deployment.mp4" type="video/mp4">
+</video>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+[Personal Page](https://jainris.com) | [Google Scholar](https://scholar.google.com/citations?user=JByb3ZEAAAAJ) | [LinkedIn](https://www.linkedin.com/in/jainris/)
+
+---
+
+## Select Repositories
+
+### MAPF
+
+* [hmagat](https://github.com/proroklab/hmagat): Hypergraph Neural Networks for MAPF. Published in ICLR-26.
+* [lagat](https://github.com/proroklab/lagat): Hybrid Neuro-algorithm search for MAPF. Published in AAAI-26.
+
+### General ML
+
+* [panda](https://github.com/jainris/panda): Plug-in for Hypergraph and Graph Neural Networks. Published in NeurIPS-26.
