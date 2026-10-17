@@ -3,7 +3,7 @@
 I am a PhD researcher at the University of Cambridge, working on graph and hypergraph neural networks. I have been exploring advanced representations and neuro-algorithmic methods for multi-agent pathfinding, to obtain powerful and scalable neural solvers, while retaining the guarantees of classical algorithms.
 
 <video height="320" autoplay muted loop>
-  <source src="assets/drone-deployment.mp4" type="video/mp4">
+  <source src="https://github.com/jainris/jainris/raw/refs/heads/main/assets/drone-deployment.mp4" type="video/mp4">
 </video>
 
 ---
