@@ -8,11 +8,11 @@ I am a PhD researcher at the University of Cambridge, working on graph and hyper
 
 ### MAPF
 
-* [hmagat](https://github.com/proroklab/hmagat): Hypergraph Neural Networks for MAPF. Published in ICLR-26.
-* [lagat](https://github.com/proroklab/lagat): Hybrid Neuro-algorithm search for MAPF. Published in AAAI-26.
+* [HMAGAT](https://github.com/proroklab/hmagat): Hypergraph Neural Networks for MAPF. Published in ICLR-26.
+* [LaGAT](https://github.com/proroklab/lagat): Hybrid Neuro-algorithm search for MAPF. Published in AAAI-26.
 
 ### General ML
 
-* [panda](https://github.com/jainris/panda): Plug-in for Hypergraph and Graph Neural Networks. Published in NeurIPS-26.
+* [PANDA](https://github.com/jainris/panda): Plug-in for Hypergraph and Graph Neural Networks. Published in NeurIPS-26.
 
 https://github.com/user-attachments/assets/48c1d864-d087-48ac-8c40-74593a269c14
